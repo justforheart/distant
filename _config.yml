@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Distant"
 title_right   : "mind" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+description   : "Distant mind for distance."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://justforheart.github.io/distant # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
